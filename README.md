@@ -8,7 +8,6 @@ A Node.js application written in TypeScript that retrieves company information f
 - Extracts company name, address, phone number, and website
 - Stores data in JSON format
 - Built with TypeScript for type safety
-- Follows SOLID and DRY principles
 - Includes logging and error handling
 
 ## Prerequisites
